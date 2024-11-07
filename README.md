@@ -1,5 +1,4 @@
-# ModelTrainingPlatform
-## Machine Learning Model Training Platform
+# Machine Learning Model Training Platform
 
 ### Overview
 
